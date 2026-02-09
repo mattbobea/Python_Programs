@@ -1,2 +1,2 @@
 # Small_Python_Programs
-Python exercises
+Each is a seperate python program.  
